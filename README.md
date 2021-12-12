@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jk9eem
+- 👋 Hi, I’m Jun
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python on HackerRank to prepare technical interview
 - 💞️ I’m looking to collaborate on Software Development
