@@ -9,8 +9,9 @@
                   These include programming languages, frameworks, libraries, and tools.
     * Resume: My resume provides an overview of my education, work experience, and key achievements. 
               It highlights my relevant skills and qualifications and demonstrates my commitment to a career in software development.
-- 📫 How to reach me <jk9eem@virginia.edu>
-- <!---
+- 📫 How to reach me <jk9eem@virginia.edu> 
+
+<!---
 My name is Jun Kim, and I am a recent graduate of University of Virginia where I earned a bachelor degree in Computer Science. As an entry-level software developer, I am passionate about using technology to solve real-world problems and create innovative solutions.
 
 This repository showcases some of my personal projects and the skills I have developed as a software developer. It includes a diverse range of projects that demonstrate my ability to work with various programming languages, tools, and technologies.
